@@ -345,7 +345,7 @@ public void actionPerformed(ActionEvent e) {
 			if(label1.getText().equals("")) {
 				textfield.setBackground(Color.white);
 			}else if(label1.getText().equals("0")) {
-				textfield.setBackground(Color.gray);
+				textfield.setBackground(Color.orange);
 			}else if(label1.getText().equals("00")) {
 				textfield.setBackground(Color.red);
 			}else if(label1.getText().equals("000")) {
